@@ -1,0 +1,15 @@
+Stop interpolating user input into SQL. Use parameterized/prepared statements everywhere.
+
+Validate & sanitize inputs (whitelist lengths, types, allowed chars).
+
+Use a DB user with minimum privileges (no DROP, GRANT, etc. from app user).
+
+Operations / monitoring:s
+
+Stop interpolating user input into SQL. Use parameterized/prepared statements everywhere.
+
+Validate & sanitize inputs (whitelist lengths, types, allowed chars).
+
+Use a DB user with minimum privileges (no DROP, GRANT, etc. from app user).
+
+Operations / monitoring:s
