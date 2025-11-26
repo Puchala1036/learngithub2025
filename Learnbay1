@@ -20,3 +20,8 @@ Validate & sanitize inputs (whitelist lengths, types, allowed chars).
 Use a DB user with minimum privileges (no DROP, GRANT, etc. from app user).
 
 Operations / monitoring:s
+Validate & sanitize inputs (whitelist lengths, types, allowed chars).
+
+Use a DB user with minimum privileges (no DROP, GRANT, etc. from app user).
+
+Operations / monitoring:s
